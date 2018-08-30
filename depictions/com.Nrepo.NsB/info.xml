@@ -1,5 +1,5 @@
 <package>
-	<id>com.Nrepo.NsB</id>
+	<id>com.iconboot.NsB</id>
 	<name>NsB</name>
 	<version>1.0.2</version>
 	<compatibility>
@@ -37,8 +37,8 @@
 	</changelog>
 	<links>
 		<link>
-			<name>Nrepo NsB Theme</name>
-			<url>https://youtu.be/lxIToc40pWM</url>
+			<name> NsB Theme</name>
+			<url></url>
 		</link>
 	</links>
 </package>
