@@ -1,0 +1,19 @@
+Package: com.iconboot.appstorenohistory
+Architecture: iphoneos-arm
+Version: 0.0~beta8
+Section: Tweaks
+Maintainer: iconboot
+Depends: preferenceloader, mobilesubstrate, applist
+Filename: ./com.iconboot.appstorenohistory_0.0~beta8_iphoneos-arm.deb
+Size: 30776
+MD5sum: 87a291c667022ea14f3afd9461459a57
+Homepage: http://twitter.com/iconboot
+Description: Clean Updated Apps History
+Name: Appstore No History
+Author: iconboot
+Icon: file:///Library/PreferenceBundles/AppstoreNoHistorySettings.bundle/icon@2x.png
+Depiction: http://iconboot.github.io/description.html?id=com.julioverne.appstorenohistory
+
+
+
+
