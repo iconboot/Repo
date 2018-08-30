@@ -1,11 +1,8 @@
-Origin: iconboot Repo
-Label: iconboot
+Origin: Nrepo
+Label: Nrepo
 Suite: stable
 Version: 1.0
-Codename: iconboot
-Architecture: iphoneos-arm
+Codename: ios
+Architectures: iphoneos-arm
 Components: main
-Description: iconboot Tweaks
-MD5Sum:
- f917af626ac8ad4c589d58679de5f02a 40735 Packages
- 7debd2909d4b9488f49356fcd0d1b248 7144 Packages.bz2
+Description: My Cydia Repository

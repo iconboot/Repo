@@ -1,0 +1,9 @@
+Architecture: iphoneos-arm
+Author:  iconboot 
+Description: Crystal Apple Theme
+Depiction: https://iconboot.github.io/depictions/?p=com.Nrepo.NsB
+Maintainer:  iconboot  <iconboot@mail.ru>
+Name: NsB
+Package: com.iconboot.NsB
+Section: aThemes
+Version: 1.0.2

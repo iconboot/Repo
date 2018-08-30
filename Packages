@@ -1,19 +1,33 @@
-Package: com.iconboot.appstorenohistory
+Package: com.iconboot.Nicon
+Version: 1.0.4
 Architecture: iphoneos-arm
-Version: 0.0~beta8
-Section: Tweaks
-Maintainer: iconboot
-Depends: preferenceloader, mobilesubstrate, applist
-Filename: ./com.iconboot.appstorenohistory_0.0~beta8_iphoneos-arm.deb
-Size: 30776
-MD5sum: 87a291c667022ea14f3afd9461459a57
-Homepage: http://twitter.com/iconboot
-Description: Clean Updated Apps History
-Name: Appstore No History
-Author: iconboot
-Icon: file:///Library/PreferenceBundles/AppstoreNoHistorySettings.bundle/icon@2x.png
-Depiction: http://iconboot.github.io/description.html?id=com.julioverne.appstorenohistory
+Essential: yes
+Maintainer:  iconboot  <iconboot@mail.ru>
+Filename: ./debs//com.iconboot.nicon_1.0.4_iphoneos-arm.deb
+Size: 12062
+MD5sum: 16c272cd218bec8ec146fe92b277b257
+SHA1: 60286cc76cf57f313976e1d2c35201608588d681
+SHA256: 4ec4c749dce9e0adea4c0ba824d4c967179b457cccdef338a1c3027d017cc560
+Section: aTweaks
+Priority: required
+Description: Adds setup files, icons and sources to repo
+Author:  iconboot 
+Depiction: https://iconboot.github.io/depictions/?p=com.iconboot.Nicon
+Name: Nicon
+Sponsor: http://iconboot.github.io/
 
-
-
+Package: com.iconboot.NsB
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer:  iconboot  <iconboot@mail.ru>
+Filename: ./debs//com.iconboot.nsb_1.0.2_iphoneos-arm.deb
+Size: 633808
+MD5sum: 54b72a652c052596bcc8a7bc317833c8
+SHA1: ea46194854ea045235b349f5f175160c7f2361ef
+SHA256: b4a175c5d09b79b1c45ad6f542fa582066f2c2eef31f16fda34d10bae9a84200
+Section: aThemes
+Description: Crystal Apple Theme
+Author:  iconboot 
+Depiction: https://iconboot.github.io/depictions/?p=com.iconboot.NsB
+Name: NsB
 

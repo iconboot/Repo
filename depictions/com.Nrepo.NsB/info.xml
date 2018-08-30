@@ -1,0 +1,44 @@
+<package>
+	<id>com.Nrepo.NsB</id>
+	<name>NsB</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+      <maxiOS>9.0+</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package></package>
+	</dependencies>
+	<descriptionlist>
+		<description>This is a Theme.</description>
+		<description>It has a Crystal Apple start up screen.</description>
+		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Crystal Apple start up screen.</description>
+			<image>image.png</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+		<change></change>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>Nrepo NsB Theme</name>
+			<url>https://youtu.be/lxIToc40pWM</url>
+		</link>
+	</links>
+</package>
