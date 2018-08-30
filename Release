@@ -1,8 +1,8 @@
-Origin: remyla's repo
-Label: remyla's repo
+Origin: iconboot repo
+Label: iconboot repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: My personnal repository
+Description: My iconboot repository
