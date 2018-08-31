@@ -1,19 +1,143 @@
-Package: com.iconboot.appstorenohistory
+Package: com.imkpatil.colormybattery
+Version: 1.2.2
 Architecture: iphoneos-arm
-Version: 0.0~beta8
+Maintainer: Kiran Patil
+Installed-Size: 284
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.colormybattery_1.2.2_iphoneos-arm.deb
+Size: 36680
+MD5sum: 0a11d106af8082f8425d73d2c6468a56
+SHA1: 50047a19b8002738e5047bc3b6f22ddfdd9a5b42
+SHA256: 9449afff925d5ed8139f81cfa05cbfa3b602737120eb42f39e059e68d242fb14
 Section: Tweaks
+Description: Battery Color based on the battery percentage.
+Author: Kiran Patil
+Depiction: https://iconboot.github.io/depiction/ColorMyBattery/index.html
+Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+Name: ColorMyBattery
+
+Package: com.imkpatil.countmymessages
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.countmymessages_1.0_iphoneos-arm.deb
+Size: 42152
+MD5sum: 041eeed5502b1d9011e4a887200ecabc
+SHA1: 8f329f47e21508a064e772de0aa9fdaad45d5e96
+SHA256: 39d5bd5b8a64abddc840e98f6d47b49242f2ad6f80fe1e9f1b7156e894e83a48
+Section: Tweaks
+Description: A Simple tweak to count my Total messages!
+Author: Kiran Patil
+Depiction: https://iconboot.github.io/depiction/CountMyMessages/index.html
+Icon: file:///Library/Application Support/CountMyMessages/icon.png
+Name: CountMyMessages
+
+Package: com.imkpatil.ezswipe
+Version: 1.0.0-15
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.ezswipe_1.0.0-15_iphoneos-arm.deb
+Size: 21042
+MD5sum: 62000352672ee119ebddc56b5a7966ad
+SHA1: 7229f245c8c707415db54e550a795c9e7728aafc
+SHA256: 5777df9cd5178edfba2b628b8cc63879271e67f7e39de4e65f32de4fec58822a
+Section: Tweaks
+Description: Give your hand a rest by using gestures instead!
+Author: Kiran Patil
+Depiction: https://iconboot.github.io/depiction/EZSwipe/index.html
+Icon: file:///Library/Application Support/EZSwipe/icon.png
+Name: EZSwipe
+
+Package: com.imkpatil.floatingdock
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 280
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.floatingdock_1.4_iphoneos-arm.deb
+Size: 31848
+MD5sum: 44c42af464e6e839688b48c33114a327
+SHA1: 4a3924ddf8e502aa1f9e9151e316ccfa2a02bc2c
+SHA256: eb98d47c448e19a39e72943158ab276936dd98027a6738cf46fdedb6eab8cd73
+Section: Tweaks
+Description: iPad like dock for iPhone!
+Author: Kiran Patil
+Depiction: https://iconboot.github.io/depiction/FloatingDock/index.html
+Icon: file:///Library/Application Support/FloatingDock/icon.png
+Name: FloatingDock
+
+Package: com.imkpatil.homebarsizer
+Version: 1.0-5
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 208
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.homebarsizer_1.0-5_iphoneos-arm.deb
+Size: 21660
+MD5sum: c9e31457d84ef3086c5a29ecb5f76b61
+SHA1: 57da772df60d644978b2d9ad9b526e1b0f1e6ae3
+SHA256: 7f1e89c0888efa6644f9cc033a7848ed38235e80485633fa4f4cdbe8593d535a
+Section: Tweaks
+Description: Resize that HomeBar!
+Author: Kiran Patil
+Depiction: https://iconboot.github.io/depiction/HomeBarSizer/index.html
+Icon: file:///Library/Application Support/HomeBarSizer/icon.png
+Name: HomeBarSizer
+
+Package: com.imkpatil.screenrecorderforcedaudio
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 208
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.screenrecorderforcedaudio_1.0-3_iphoneos-arm.deb
+Size: 22202
+MD5sum: 612b2c682457f9c0968331519def91d5
+SHA1: ab03900973e2b9ec637cfa7a15e7b00ae70b9fdf
+SHA256: 3bc3942ddad6324abe5a3ede6f945e7babc0cd098042b0a174b49913735599fa
+Section: Tweaks
+Description: This tweak will force the phone audio to be recorded even when the micophone is turned ON.
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/depiction/ScreenRecorderForcedAudio/index.html
+Icon: file:///Library/Application Support/ScreenRecorderForcedAudio/icon.png
+Name: ScreenRecorderForcedAudio
+
+Package: com.imkpatil.spotclearonclose
+Version: 0.0.9-1+debug
+Architecture: iphoneos-arm
 Maintainer: iconboot
-Depends: preferenceloader, mobilesubstrate, applist
-Filename: ./com.iconboot.appstorenohistory_0.0~beta8_iphoneos-arm.deb
-Size: 30776
-MD5sum: 87a291c667022ea14f3afd9461459a57
-Homepage: http://twitter.com/iconboot
-Description: Clean Updated Apps History
-Name: Appstore No History
-Author: iconboot
-Icon: file:///Library/PreferenceBundles/AppstoreNoHistorySettings.bundle/icon@2x.png
-Depiction: http://iconboot.github.io/description.html?id=com.julioverne.appstorenohistory
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.spotclearonclose_0.0.9-1+debug_iphoneos-arm.deb
+Size: 2348
+MD5sum: a703edbe539da7901a36efa530f63aca
+SHA1: c565013a8218908373fc2887bee4220028ecca90
+SHA256: 8517aaa28b8bfc458dba30593f84a26397afc42e8ef4dbbffbbaaadf670f063d
+Section: Tweaks
+Description: SpotClearOnClose clears your spotlight results/search so that when you open it the next time, you don't have to deal with the last search's Text/results!
+Author: Kiran Patil
+Depiction: https://iconboot.github.io/depiction/SpotClearOnClose/index.html
+Name: SpotClearOnClose
 
-
-
+Package: com.imkpatil.trashfromls
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: iconboot
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.trashfromls_1.0-1_iphoneos-arm.deb
+Size: 5320
+MD5sum: 5b5726aafba8d6d48510e46d4fa58f54
+SHA1: a6d010e90ed198191e5e4cc2c58ea3517a0c8459
+SHA256: 5097e7a3f6f21d49b7a54b1b945a47a807eddbf9b3913e08be4aebedb233ef62
+Section: Tweaks
+Description: A Simple Tweak that allows deleting emails from LockScreen without asking for Password Confirmation.
+Author: Kiran Patil
+Depiction: https://iconboot.github.io/depiction/TrashFromLS/index.html
+Icon: file:///Library/Application Support/TrashFromLS/icon.png
+Name: TrashFromLS
 
