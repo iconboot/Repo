@@ -1,21 +1,4 @@
-Package: com.iconboot.longtimer
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iconboot
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.iconboot.longtimer_1.0_iphoneos-arm.deb
-Size: 2598
-MD5sum: cddd3238d9188e5b9916a1cfabfbe59a
-SHA1: 5cd4e3c1db72babe7d2f0fe63f7c21aaeeba4763
-SHA256: a1bb29b4fe68e2aea690071ce731ae91b1d98bc58a58ad90580ab8a27515d1fa
-Section: Tweaks
-Description: Make the timer run longer!
-Author: iconboot
-Depiction: https://iconboot.github.io/depiction/LongTimer/index.html
-Name: LongTimer
-
-Package: com.imkpatil.nudepassscreen
+Package: com.iconboot.nudepassscreen
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iconboot
@@ -33,7 +16,7 @@ Depiction: https://iconboot.github.io/depiction/NudePassScreen/index.html
 Icon: file:///Library/Application Support/NudePassScreen/icon.png
 Name: NudePassScreen
 
-Package: com.imkpatil.spotcc
+Package: com.iconboot.spotcc
 Version: 0.0.9-1+debug
 Architecture: iphoneos-arm
 Maintainer: iconboot
