@@ -1,3 +1,20 @@
+Package: com.iconboot.certremaintime
+Version: 0.0.9-1+debug
+Architecture: iphoneos-arm
+Maintainer: iconboot
+Installed-Size: 712
+Depends: mobilesubstrate
+Filename: ./debs/com.iconboot.certremaintime_2.3.7_iphoneos-arm.deb
+Size: 3382
+MD5sum: 7868D2BFABFDFE490D34AA5B16514640
+SHA1: 9E1A42E16B7704F4E427C7C2501B662E12639297
+SHA256: 7666F4ADCE40D15534EA2541CEB968CF7191CB14B8101E74A603ABB6DD4D408F
+Section: Tweaks
+Description: Badge on the app with the number of days remaining.
+Author: lululombard
+Depiction: https://iconboot.github.io/depiction/CertRemainTime/index.html
+Name: CertRemainTime
+
 Package: com.iconboot.nudepassscreen
 Version: 1.0
 Architecture: iphoneos-arm
@@ -17,7 +34,7 @@ Icon: file:///Library/Application Support/NudePassScreen/icon.png
 Name: NudePassScreen
 
 Package: com.iconboot.spotcc
-Version: 0.0.9-1+debug
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iconboot
 Installed-Size: 120
