@@ -1,9 +1,8 @@
-Origin: iconboot Repo
-Label: iconboot
+Origin: iconboot repo
+Label: iconboot repo
 Suite: stable
 Version: 1.0
-Codename: iconboot
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Tweaks from iconboot
-Icon: file://CydiaIcon.png
+Description: My personnal repository

@@ -1,54 +1,17 @@
-Package: com.iconboot.certremaintime
-Version: 2.3.7
+Package: com.remyla.LockGlyphXI
+Version: 11.2.2
 Architecture: iphoneos-arm
 Maintainer: iconboot
-Installed-Size: 712
-Depends: firmware(>=9.0),mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.iconboot.certremaintime_2.3.7_iphoneos-arm.deb
-Size: 407866
-MD5sum: 7868d2bfabfdfe490d34aa5b16514640
-SHA1: 9e1a42e16b7704f4e427c7c2501b662e12639297
-SHA256: 7666f4adce40d15534ea2541ceb968cf7191cb14b8101e74a603abb6dd4d408f
+Depends: org.thebigboss.libcolorpicker
+Conflicts: com.ioscreatix.littlex
+Replaces: com.evilgoldfish.lockglyph, com.yourepo.remyla.lockglyphxi
+Filename: ./debs/LockGlyph.deb
+Size: 89932
+MD5sum: 0b9119e552ece1ddff6e2818a47448dc
+SHA1: 31b7afa085d37acd0000c94ecb5fee142f36ef8c
+SHA256: fb254d94f81c6cecf8fc243a023a3a48ebc1800d73823bf781fd01a630184b5a
 Section: Tweaks
-Description: Badge on the app with the number of days remaining.
-Author: lululombard
-Depiction: https://iconboot.github.io/depiction/CertRemainTime/index.html
-Name: CertRemainTime
-
-Package: com.iconboot.nudepassscreen
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iconboot
-Installed-Size: 260
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.iconboot.nudepassscreen_1.0_iphoneos-arm.deb
-Size: 25284
-MD5sum: 0ba016cf527c5d7bd68247e8a5dfb084
-SHA1: a648a4e8a84208e357d9824d409ed0d3ad8a3175
-SHA256: 2571f59cbe29c0a122107295beeab64f01d4993802e28edf8b414b27bc04eb16
-Section: Tweaks
-Description: Nudify the PassCode Screen!
-Author: iconboot
-Depiction: https://iconboot.github.io/depiction/NudePassScreen/index.html
-Icon: file:///Library/Application Support/NudePassScreen/icon.png
-Name: NudePassScreen
-
-Package: com.iconboot.spotcc
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iconboot
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.iconboot.spotcc_0.0.9-1+debug_iphoneos-arm.deb
-Size: 3382
-MD5sum: b505d066249a50d07083b388c87ab55d
-SHA1: 44af51f859a50c3b62e3c2a5d21a5db22ece6d0a
-SHA256: 845ebab777148b94a55e7c3b87beb6792a49a1ba3360f4f9ffa17a5b96f71e57
-Section: Tweaks
-Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
-Author: iconboot
-Depiction: https://iconboot.github.io/depiction/SpotCC/index.html
-Name: SpotCC
-
-
+Description: LockGlyph patched by mur1sdev and edited by myself to be hosted here. Enjoy LocGlyph on ios 11 ! Any others lock screen tweaks can cause safemode. repport me them u/iconboot on reddit.
+Author: iconboot, remyla
+Name: LockGlyph XI
 
