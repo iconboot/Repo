@@ -3,7 +3,7 @@ Version: 2.3.7
 Architecture: iphoneos-arm
 Maintainer: iconboot
 Installed-Size: 712
-Depends: mobilesubstrate
+Depends: firmware(>=9.0),mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.iconboot.certremaintime_2.3.7_iphoneos-arm.deb
 Size: 407866
 MD5sum: 7868d2bfabfdfe490d34aa5b16514640
