@@ -1,10 +1,10 @@
-Package: fr.lululombard.certremaintime
+Package: com.iconboot.certremaintime
 Version: 2.3.7
 Architecture: iphoneos-arm
 Maintainer: iconboot
 Installed-Size: 712
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/fr.lululombard.certremaintime_2.3.7_iphoneos-arm
+Filename: ./debs/com.iconboot.certremaintime_2.3.7_iphoneos-arm
 Size: 407866
 MD5sum: f005d6c3f586f52c28af41f09c1bf7a2
 SHA1: 67826a22fd94ccdf3f30cf30272ccf2f32ebd72f
