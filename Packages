@@ -10,6 +10,7 @@ SHA256: 49757b1395601614eebff41f2d6e3f33f90d0cf7b87d1e3474af905af0e6198f
 Section: Utilities
 Description: check when you'll need to re-sign your jailbreak
 Depiction: https://iconboot.github.io/depiction/CertRemainTime/index.html
+Icon: file:///Applications/CertRemainTime.app/Icon.png
 Author: lululombard
 Name: CertRemainTime
 
