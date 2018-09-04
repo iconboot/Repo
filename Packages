@@ -4,11 +4,11 @@ Architecture: iphoneos-arm
 Maintainer: iconboot
 Installed-Size: 712
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.iconboot.certremaintime_2.3.7_iphoneos-arm
-Size: 407866
-MD5sum: f005d6c3f586f52c28af41f09c1bf7a2
-SHA1: 67826a22fd94ccdf3f30cf30272ccf2f32ebd72f
-SHA256: 49757b1395601614eebff41f2d6e3f33f90d0cf7b87d1e3474af905af0e6198f
+Filename: /certremaintime.deb
+Size: 407652
+MD5sum: F005D6C3F586F52C28AF41F09C1BF7A2
+SHA1: 67826A22FD94CCDF3F30CF30272CCF2F32EBD72F
+SHA256: 49757B1395601614EEBFF41F2D6E3F33F90D0CF7B87D1E3474AF905AF0E6198F
 Section: Utilities
 Description: check when you'll need to re-sign your jailbreak
 Author: lululombard
