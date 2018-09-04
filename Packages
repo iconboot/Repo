@@ -6,9 +6,9 @@ Installed-Size: 712
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
 Filename: /certremaintime.deb
 Size: 407652
-MD5sum: F005D6C3F586F52C28AF41F09C1BF7A2
-SHA1: 67826A22FD94CCDF3F30CF30272CCF2F32EBD72F
-SHA256: 49757B1395601614EEBFF41F2D6E3F33F90D0CF7B87D1E3474AF905AF0E6198F
+MD5sum: 0ba016cf527c5d7bd68247e8a5dfb084
+SHA1: a648a4e8a84208e357d9824d409ed0d3ad8a3175
+SHA256: 2571f59cbe29c0a122107295beeab64f01d4993802e28edf8b414b27bc04eb16
 Section: Utilities
 Description: check when you'll need to re-sign your jailbreak
 Author: lululombard
