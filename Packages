@@ -14,4 +14,18 @@ Icon: file:///Applications/CertRemainTime.app/Icon.png
 Author: lululombard
 Name: CertRemainTime
 
-
+Package: com.iconboot.AFaker
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iconboot <iconboot@mail.ru>
+Filename: /com.iconbooot.afaker_2.0_iphoneos-arm.deb
+Size: 37356
+MD5sum: 54379c8d01dd50828df0f1f3d6ceef3e
+SHA1: 87f84922e61953134c96d98b01b851c87c66be9a
+SHA256: ef9606af12d57eed7a90f783170122f4e12cf3715dce841ece75c732a38d29c2
+Section: Tweaks
+Description: fake carrier/battery && dialer passcode app launching
+Depiction: https://iconboot.github.io/depiction/AFaker/index.html
+Icon: file:///Library\PreferenceBundles\AFaker.bundle\AFaker@2x.png
+Author: Cunstuck
+Name: AFaker

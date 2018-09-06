@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = AFaker;
+	cell = PSLinkCell;
+	detail = AFakerListController;
+	icon = AFaker.png;
+	isController = 1;
+	label = AFaker;
+    };
+}
