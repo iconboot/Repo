@@ -1,4 +1,4 @@
-Package: com.iconboot.certremaintime
+Package: fr.lululombard.certremaintime
 Version: 2.3.7
 Architecture: iphoneos-arm
 Maintainer: iconboot <iconboot@mail.ru>
