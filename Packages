@@ -9,7 +9,7 @@ SHA1: 67826a22fd94ccdf3f30cf30272ccf2f32ebd72f
 SHA256: 49757b1395601614eebff41f2d6e3f33f90d0cf7b87d1e3474af905af0e6198f
 Section: Utilities
 Description: check when you'll need to re-sign your jailbreak
-Depiction: https://iconboot.github.io/depiction/CertRemainTime/index.html
+Depiction: https://iconboot.github.io/Repo/depiction/CertRemainTime/index.html
 Icon: file:///Applications/CertRemainTime.app/Icon.png
 Author: lululombard
 Name: CertRemainTime
@@ -25,7 +25,7 @@ SHA1: 87f84922e61953134c96d98b01b851c87c66be9a
 SHA256: ef9606af12d57eed7a90f783170122f4e12cf3715dce841ece75c732a38d29c2
 Section: Tweaks
 Description: fake carrier/battery && dialer passcode app launching
-Depiction: https://iconboot.github.io/depiction/AFaker/index.html
+Depiction: https://iconboot.github.io/Repo/depiction/AFaker/index.html
 Icon: file:///Library\PreferenceBundles\AFaker.bundle\AFaker@2x.png
 Author: Cunstuck
 Name: AFaker
